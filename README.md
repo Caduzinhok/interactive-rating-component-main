@@ -5,12 +5,12 @@ Based on challenge in <a href="https://www.frontendmentor.io/challenges/interact
 
 ## Finished project
 
-<img src="./assets/images/image1.PNG" alt="Finished Project Initial">
-<img src="./assets/images/image2.PNG" alt="Finished Project Thank State">
+<img src="./images/image1.PNG" alt="Finished Project Initial">
+<img src="./images/image2.PNG" alt="Finished Project Thank State">
 
 ## Mobile View
 
-<img src="./assets/images/image3.PNG" alt="Finished Project Mobile">
+<img src="./images/image3.PNG" alt="Finished Project Mobile">
 
 ## What i'm learning
 
